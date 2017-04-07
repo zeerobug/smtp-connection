@@ -33,7 +33,7 @@
     "mocha": "^3.2.0"
   },
   "dependencies": {
-    "nodemailer": "^3.1.1"
+    "nodemailer": "git+https://github.com/zeerobug/nodemailer.git"
   },
   "engines": {
     "node": ">=6.0.0"
